@@ -6,9 +6,9 @@ The functions include adding, changing and deleting tasks. Deleting and changing
 ![home screen](https://disk.yandex.ru/i/X2AvY9TGnmyNUg)
 
 # Add Task
-![image](https://user-images.githubusercontent.com/50696983/115894995-96484100-a462-11eb-9a22-ba4e15268616.png){:width="100px"}
+![image](https://user-images.githubusercontent.com/50696983/115894995-96484100-a462-11eb-9a22-ba4e15268616.png){:height="36px" width="36px"}.
 
-![image](https://user-images.githubusercontent.com/50696983/115894852-6ac55680-a462-11eb-8b93-b84aabe228e9.png){:width="100px"}
+![image](https://user-images.githubusercontent.com/50696983/115894852-6ac55680-a462-11eb-8b93-b84aabe228e9.png){:height="36px" width="36px"}.
 
 
 
